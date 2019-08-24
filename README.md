@@ -14,6 +14,6 @@ Fitur :
   * Menampilkan Gambar Pada Halaman Detail
   
  Source :
- [Your Link](https://id.wikipedia.org)
+ [Wikipedia](https://id.wikipedia.org)
 
 ![alt text](https://raw.githubusercontent.com/muhanggaohs/Submission/master/sertifikat.png)
